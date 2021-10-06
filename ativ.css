@@ -1,0 +1,13 @@
+h1{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+}
+#p1{
+    text-transform: capitalize;
+    color: green;
+}
+#p2{
+    text-transform: capitalize;
+    color: green;
+}

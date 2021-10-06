@@ -1,0 +1,11 @@
+body{
+    background-image: url("naruto.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-color: lightblue;
+    background-attachment: fixed;
+}
+h1{
+    background-color: green;
+    color: white;
+}
